@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trifan_Ana_Lab6_7", "Trifan_Ana_Lab6_7.csproj", "{FBE2F416-54F4-4BB7-875A-3548B9CD18B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{8D2BA509-8416-4483-B6A7-ADE2708D6F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE2F416-54F4-4BB7-875A-3548B9CD18B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE2F416-54F4-4BB7-875A-3548B9CD18B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE2F416-54F4-4BB7-875A-3548B9CD18B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE2F416-54F4-4BB7-875A-3548B9CD18B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2BA509-8416-4483-B6A7-ADE2708D6F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2BA509-8416-4483-B6A7-ADE2708D6F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2BA509-8416-4483-B6A7-ADE2708D6F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2BA509-8416-4483-B6A7-ADE2708D6F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A349BA7-D7AE-4190-83A6-CDD5A45ED031}
+	EndGlobalSection
+EndGlobal
